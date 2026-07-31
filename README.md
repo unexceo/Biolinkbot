@@ -73,6 +73,6 @@ python bio.py
 ## Author
 
 - Name: Bisnu Ray
-- Telegram: [@itsSmartDev](https://t.me/itsSmartDev)
+- Telegram: [@unexceo](https://t.me/unexceo)
 
 Feel free to reach out if you have any questions or feedback.
